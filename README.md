@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub metrics](https://metrics.lecoq.io/Dialca?isocalendar=1&gists=1&languages=1&isocalendar.duration=half-year)
 <!--
 **Dialca/Dialca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
