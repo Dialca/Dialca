@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "0 0 * * *" 
   push:
-    branches: "master"
+    branches: "main"
 jobs:
 # The job below generates the images displayed on lowlighter/lowlighter
   github-metrics-personal:
